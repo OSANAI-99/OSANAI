@@ -10,10 +10,10 @@ public class task5 {
 		sc.close();//Scannerおわり
 
 		//ノートPCの値段
-		String String1 = "ノートPCの値段:";
-		int HASSEN = 89800;
-		String ENN = "円";
-    	System.out.println(String1+HASSEN+ENN);
+		String string1 = "ノートPCの値段:";
+		int hassen = 89800;
+		String enn = "円";
+    	System.out.println(string1+HASSEN+ENN);
 
     	//入力されたもの
 		System.out.println(str);
