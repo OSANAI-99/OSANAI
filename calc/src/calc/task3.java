@@ -14,8 +14,9 @@ public class task3 {
 		//合計を求める
 		int goukei = a + b + c;
 		//平均を求める
-		int heikin = GOUKEI /3;//3を指定した
-		double heikinb = GOUKEI / 3.0;//3.0を指定した
+		int heikin = goukei /3;//3を指定した
+		double heikinb = goukei / 3.0;//3.0を指定した]
+
 		//表示
 		System.out.println("合計:" + (goukei) ); //合計:35
 		System.out.println("平均(3で割った時):" + (heikin) ); //平均(3で割った時):11

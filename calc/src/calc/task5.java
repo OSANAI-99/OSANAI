@@ -13,9 +13,9 @@ public class task5 {
 		String string1 = "ノートPCの値段:";
 		int hassen = 89800;
 		String enn = "円";
-    	System.out.println(string1+HASSEN+ENN);
+    	System.out.println(string1+hassen+enn);
 
-    	//入力されたもの
+    	//入力されたものを表示
 		System.out.println(str);
 		System.out.println(str2);
 		System.out.println(str+str2);
